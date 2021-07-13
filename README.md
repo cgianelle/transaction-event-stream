@@ -1,5 +1,8 @@
 # Account Balance
 
+## Diagram
+![event stream](event-stream.jpeg)
+
 ## Create Kafka Topic
 ~~~~
 Chriss-MacBook-Pro:transactions cgianelle$ docker container exec -it account_balance_kafka_1 bash
